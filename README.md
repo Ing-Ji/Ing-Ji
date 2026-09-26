@@ -2,7 +2,7 @@
 
 I'm Ing Ji a Computer Science Graduate, currently based in UK.
 
-I work on Software Development and Machine Learning - Java, PyTorch, CNNs and Embodied AI Agents
+I work on Software Development but particularly interested Computer Vision - Java, PyTorch, CNNs, Transformers based vision architecture
 
 I love learning new things and incorporating new ideas in my creations.
 
